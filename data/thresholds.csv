@@ -1,5 +1,5 @@
 metric,caution_at,nogo_at,source
-feels_like,,,
-rain_chance,,,
-wind,,,
-gusts,,,
+feels_like,90,103,NWS Heat Index: 90F+ is Extreme Caution and 103F+ is Danger
+rain_chance,40,70,Judgment call: common planning cutoffs with no official standard
+wind,20,30,Beaufort scale: 25+ mph is a strong breeze; NWS Wind Advisory starts at 31 mph
+gusts,30,45,NWS Wind Advisory is issued at gusts of 46+ mph

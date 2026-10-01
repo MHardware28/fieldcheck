@@ -65,6 +65,6 @@ with st.expander("🌧️ Chance of rain"):
     show_limits("rain_chance", "%")
 
 st.info(
-    "FieldCheck is a just planning tool built to help coaches. "
-    "The coach/trainer in charge of practice makes the final call."
+    "FieldCheck is just a planning tool built to help coaches. "
+    "The coach or trainer in charge of practice makes the final call."
 )
